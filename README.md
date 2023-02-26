@@ -1,2 +1,2 @@
 # dpp-conan
-Conan Repository for github.com/brainboxdotcc/DPP/
+Conan Repository for https://github.com/brainboxdotcc/DPP/
